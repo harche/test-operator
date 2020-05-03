@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: TestKind
+metadata:
+  name: example-testkind
+spec:
+  # Add fields here
+  size: 3
